@@ -1,11 +1,42 @@
 .Home {
-    background-color: brown;
+    background-color: #000A85;
     
-    
+    width: 120%;
+    margin-left: -10%;
+    margin-top: -2%;
+    position: relative;
+    float: left;
 }
 
 .Titulo
 {
-    align-content: center;
-    text-align: center;
+   
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 30%;    
+    font-size: 5.5vh;
+    position: relative;
+    float: left;
+    margin-top: 3.5%;
+    padding: 2% 2% 1% 10% ;
+    
+}
+
+.logoReact {
+    margin-left: 15%;
+    margin-top: 2%;
+    border-radius: 10%;
+    width: 7%;
+    position: relative; float: left;
+    
+
+}
+.LogoArsat {
+    margin-left: 10%;
+    margin-top: 3.5%;
+    border-radius: 10%;
+    width: 7%;
+    position: relative; float: left;
+    
+
 }

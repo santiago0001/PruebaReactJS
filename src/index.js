@@ -9,6 +9,8 @@ ReactDOM.render(
   <React.StrictMode>
 
     <BarraPrincipal titulo="Esta es una prueba de React JS"/>
+    
+    
     <br/>
     <App/> 
     <br/>
